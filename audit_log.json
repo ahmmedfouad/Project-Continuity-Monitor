@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-12-26T21:50:23.353325",
+    "summary": {
+      "total_projects": 15,
+      "at_risk": 8,
+      "needs_attention": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-26T22:50:26.939614",
+    "summary": {
+      "total_projects": 15,
+      "at_risk": 8,
+      "needs_attention": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-26T23:21:01.366397",
+    "summary": {
+      "total_projects": 15,
+      "at_risk": 8,
+      "needs_attention": 0
+    }
+  }
+]

@@ -1,0 +1,201 @@
+project_id,project_name,sector,start_date,last_update,planned_milestones,completed_milestones,activity_level,org_type,region,priority,budget_total,budget_spent,payment_delay_days,dependency_count,team_size,approval_stage,approval_last_moved,update_channel,risk_notes
+P001,IT Initiative #728,IT,2025-05-30,2025-11-01,10,0,Low,NGO,Delta,High,500000.0,0.0,0,0,8,Initiation,2025-09-27,Email,Scope clarification needed
+P002,Water & Sanitation Initiative #54,Water & Sanitation,2024-12-25,2025-11-21,11,1,Medium,NGO,Cairo,Medium,1000000.0,16268.91,14,0,8,Procurement,2025-10-30,Phone,
+P003,Culture Initiative #660,Culture,2025-09-16,2025-11-25,12,11,Medium,NGO,Giza,Low,500000.0,499054.41,14,8,20,Closed,2025-11-19,Field Visit,
+P004,Environment Initiative #42,Environment,2025-06-07,2025-10-22,11,0,Low,Private,Cairo,Medium,1000000.0,0.0,90,2,8,Handover,2025-10-02,Meeting,
+P005,Tourism Initiative #234,Tourism,2025-07-30,2025-12-15,13,6,Medium,Private,Giza,High,3000000.0,1212739.56,0,2,5,UAT,2025-11-18,Phone,Awaiting approval
+P006,Manufacturing Initiative #559,Manufacturing,2024-10-24,2025-12-14,4,0,Medium,Government,Cairo,Medium,5000000.0,0.0,14,1,5,UAT,2025-12-14,Meeting,Payment backlog
+P007,Logistics Initiative #166,Logistics,2025-09-02,2025-11-28,12,8,Medium,Government,Cairo,Medium,10000000.0,8568275.01,14,1,3,Handover,2025-11-09,Phone,Payment backlog
+P008,Environment Initiative #788,Environment,2025-01-18,2025-11-15,3,2,Medium,Private,Cairo,High,25000000.0,20193740.05,0,0,20,Initiation,2025-11-10,Field Visit,Resource constraints
+P009,Water & Sanitation Initiative #539,Water & Sanitation,2024-12-09,2025-12-11,18,16,Medium,Government,Giza,Medium,50000000.0,50000000.0,14,2,12,Execution,2025-10-30,System,Awaiting approval
+P010,Culture Initiative #507,Culture,2025-09-07,2025-11-08,13,0,Low,Private,Cairo,Low,500000.0,35443.02,0,5,20,Initiation,2025-10-07,Email,
+P011,Energy Initiative #755,Energy,2024-12-16,2025-11-03,18,11,Medium,NGO,Suez Canal,Low,1000000.0,611979.02,7,1,12,Handover,2025-09-23,Meeting,
+P012,Tourism Initiative #105,Tourism,2025-07-19,2025-12-23,9,6,High,Private,Cairo,Low,3000000.0,2468210.25,0,3,20,Initiation,2025-12-20,Phone,Resource constraints
+P013,Agriculture Initiative #313,Agriculture,2025-01-02,2025-10-05,9,1,Low,University,Cairo,Low,3000000.0,856177.31,30,1,12,Handover,2025-08-31,Field Visit,
+P014,Energy Initiative #974,Energy,2024-10-28,2025-12-08,4,2,High,Government,Alexandria,Medium,10000000.0,4051014.55,60,0,5,UAT,2025-12-04,Email,Awaiting approval
+P015,Agriculture Initiative #779,Agriculture,2025-01-04,2025-12-17,5,3,Medium,Private,Alexandria,Medium,1000000.0,684404.09,0,0,5,Handover,2025-11-28,Field Visit,
+P016,Infrastructure Initiative #836,Infrastructure,2024-11-04,2025-09-18,6,0,Low,Private,Giza,Low,3000000.0,0.0,0,1,8,UAT,2025-08-04,System,Payment backlog
+P017,Public Services Initiative #267,Public Services,2024-10-15,2025-08-24,12,0,Low,University,Cairo,Low,1000000.0,43628.27,0,2,12,Requirements,2025-07-12,System,Vendor delay
+P018,Health Initiative #388,Health,2025-04-25,2025-10-13,4,0,Low,Private,Cairo,High,1000000.0,4642.43,14,2,3,Handover,2025-10-04,Phone,
+P019,Water & Sanitation Initiative #957,Water & Sanitation,2025-09-30,2025-11-20,12,1,Low,NGO,Suez Canal,High,25000000.0,171503.04,0,0,12,Closed,2025-10-25,Phone,Scope clarification needed
+P020,Agriculture Initiative #889,Agriculture,2025-08-03,2025-12-01,16,12,High,Government,Upper Egypt,Medium,3000000.0,2503402.49,14,0,5,Handover,2025-11-25,Field Visit,Resource constraints
+P021,Sports Initiative #873,Sports,2024-12-02,2025-08-24,14,1,Low,NGO,Upper Egypt,Low,5000000.0,304458.32,0,0,12,Procurement,2025-07-14,Phone,Awaiting approval
+P022,Water & Sanitation Initiative #55,Water & Sanitation,2025-09-05,2025-12-03,11,0,Low,Private,Sinai,Low,5000000.0,0.0,30,1,35,Initiation,2025-11-09,Phone,
+P023,SME Initiative #312,SME,2024-10-09,2025-08-10,9,1,Low,Private,Red Sea,High,5000000.0,966483.64,0,5,8,Handover,2025-07-15,System,Awaiting approval
+P024,Water & Sanitation Initiative #533,Water & Sanitation,2024-10-09,2025-10-14,15,1,Low,Private,Cairo,Medium,500000.0,8543.23,7,2,12,Execution,2025-09-16,Field Visit,Payment backlog
+P025,Sports Initiative #496,Sports,2024-09-19,2025-10-30,8,1,Medium,Private,Alexandria,Medium,500000.0,154099.94,0,1,12,Requirements,2025-10-29,Meeting,
+P026,Infrastructure Initiative #580,Infrastructure,2024-12-20,2025-11-09,9,6,Medium,Private,Cairo,Medium,500000.0,389752.12,14,0,8,Requirements,2025-09-26,Phone,Awaiting approval
+P027,Agriculture Initiative #771,Agriculture,2025-04-04,2025-12-23,7,6,High,Private,Sinai,Medium,25000000.0,25000000.0,14,2,8,Closed,2025-11-18,Field Visit,External dependency blocking
+P028,Sports Initiative #733,Sports,2025-05-29,2025-11-01,11,9,Medium,Private,Cairo,Medium,5000000.0,3751272.85,0,3,3,Requirements,2025-10-18,Field Visit,Payment backlog
+P029,Energy Initiative #409,Energy,2025-03-30,2025-10-15,17,3,Low,Government,Suez Canal,Medium,10000000.0,3575923.0,0,3,8,Execution,2025-10-15,System,
+P030,SME Initiative #413,SME,2024-12-28,2025-11-02,10,7,Medium,Government,Giza,Low,3000000.0,2363098.98,7,0,8,Requirements,2025-09-24,Phone,
+P031,Education Initiative #562,Education,2025-07-06,2025-10-13,17,1,Low,Government,Giza,Low,3000000.0,525761.78,0,2,20,Procurement,2025-10-08,Field Visit,
+P032,Health Initiative #181,Health,2025-07-24,2025-12-15,5,1,High,NGO,Red Sea,Low,500000.0,51666.91,0,2,8,Requirements,2025-11-16,System,Scope clarification needed
+P033,IT Initiative #318,IT,2025-06-03,2025-12-09,6,4,Medium,Government,Cairo,Medium,50000000.0,32774786.06,14,0,12,Handover,2025-11-24,Meeting,Payment backlog
+P034,IT Initiative #761,IT,2025-09-23,2025-11-13,14,12,Medium,Private,Giza,Medium,3000000.0,3000000.0,30,0,35,Handover,2025-10-15,Email,Awaiting approval
+P035,Public Services Initiative #354,Public Services,2025-01-07,2025-12-18,18,17,High,Private,Delta,Medium,10000000.0,10000000.0,0,3,5,Execution,2025-11-12,Phone,Payment backlog
+P036,Education Initiative #256,Education,2025-07-29,2025-11-29,18,11,Medium,Private,Cairo,Medium,5000000.0,3845743.41,7,1,5,Requirements,2025-11-03,Field Visit,Vendor delay
+P037,Sports Initiative #287,Sports,2025-03-04,2025-11-18,3,0,Medium,Private,Giza,Low,5000000.0,0.0,7,1,35,UAT,2025-10-28,System,Scope clarification needed
+P038,Finance Initiative #862,Finance,2024-10-18,2025-11-21,9,1,Low,Government,Giza,Medium,1000000.0,36845.74,7,2,35,UAT,2025-10-14,System,Seasonality impact
+P039,Energy Initiative #500,Energy,2025-06-22,2025-10-21,12,0,Low,NGO,Cairo,Low,500000.0,0.0,60,2,12,Initiation,2025-10-21,Phone,
+P040,Culture Initiative #630,Culture,2025-06-24,2025-11-30,18,0,Low,NGO,Giza,Low,5000000.0,0.0,0,2,5,Requirements,2025-11-23,Phone,Scope clarification needed
+P041,Agriculture Initiative #187,Agriculture,2025-03-10,2025-11-25,17,11,Medium,NGO,Sinai,Medium,5000000.0,3552148.21,14,5,5,Requirements,2025-11-09,Meeting,
+P042,Water & Sanitation Initiative #966,Water & Sanitation,2025-04-11,2025-12-06,17,5,Low,Private,Cairo,Low,5000000.0,1950816.46,7,2,20,Closed,2025-10-27,Phone,Payment backlog
+P043,Energy Initiative #522,Energy,2025-06-23,2025-11-15,7,2,Medium,NGO,Cairo,Low,3000000.0,1193548.47,7,1,3,Handover,2025-10-27,Field Visit,External dependency blocking
+P044,Water & Sanitation Initiative #791,Water & Sanitation,2025-01-12,2025-12-14,4,3,Medium,NGO,Alexandria,Low,1000000.0,836004.43,30,2,3,Closed,2025-11-01,System,Vendor delay
+P045,Retail Initiative #305,Retail,2025-02-25,2025-11-08,11,3,Medium,University,Giza,High,50000000.0,14361545.55,7,1,3,Requirements,2025-10-18,Field Visit,Payment backlog
+P046,Training Initiative #647,Training,2025-10-22,2025-12-09,17,13,High,Private,Cairo,High,3000000.0,2384443.71,90,2,8,Execution,2025-12-06,Email,Vendor delay
+P047,Sports Initiative #427,Sports,2025-09-06,2025-11-01,9,4,Medium,Private,Upper Egypt,Medium,5000000.0,1684717.87,90,2,5,Requirements,2025-10-13,Phone,
+P048,Infrastructure Initiative #953,Infrastructure,2025-05-25,2025-08-21,17,0,Low,Private,Cairo,High,3000000.0,290682.21,7,1,8,Execution,2025-07-17,Email,Awaiting approval
+P049,Public Services Initiative #363,Public Services,2025-10-07,2025-12-11,11,7,Medium,Private,Delta,Medium,500000.0,370240.74,30,2,12,Closed,2025-12-02,Field Visit,Vendor delay
+P050,Tourism Initiative #821,Tourism,2025-04-06,2025-11-15,17,12,Medium,NGO,Sinai,Low,3000000.0,2566460.68,7,1,8,Closed,2025-10-22,Field Visit,Seasonality impact
+P051,Manufacturing Initiative #417,Manufacturing,2025-09-14,2025-12-17,13,4,Medium,NGO,Giza,Medium,3000000.0,1231642.94,7,2,5,Execution,2025-12-01,System,Payment backlog
+P052,Infrastructure Initiative #788,Infrastructure,2024-11-19,2025-11-29,15,13,High,Private,Upper Egypt,Medium,5000000.0,4663887.39,0,2,5,Requirements,2025-11-24,Field Visit,Seasonality impact
+P053,IT Initiative #644,IT,2025-05-06,2025-11-05,3,0,Medium,Private,Cairo,Medium,3000000.0,0.0,7,2,5,Requirements,2025-10-31,Phone,Resource constraints
+P054,Agriculture Initiative #444,Agriculture,2025-08-01,2025-11-12,10,7,Medium,Private,Giza,Medium,25000000.0,17820965.99,0,1,3,Procurement,2025-10-06,System,Payment backlog
+P055,Logistics Initiative #773,Logistics,2025-07-22,2025-11-30,15,12,Medium,Government,Giza,Medium,3000000.0,2684243.03,0,3,8,Initiation,2025-10-25,Meeting,External dependency blocking
+P056,Sports Initiative #461,Sports,2025-06-05,2025-11-28,10,10,High,NGO,Cairo,Low,1000000.0,1000000.0,14,2,5,Initiation,2025-10-19,Meeting,
+P057,Health Initiative #312,Health,2025-07-29,2025-11-03,5,2,Medium,Private,Giza,Low,10000000.0,5567612.09,0,1,5,Requirements,2025-10-18,Field Visit,Seasonality impact
+P058,Tourism Initiative #776,Tourism,2025-10-05,2025-12-12,7,4,High,NGO,Delta,High,50000000.0,35151712.34,0,3,3,UAT,2025-12-05,Field Visit,Awaiting approval
+P059,Logistics Initiative #129,Logistics,2024-11-06,2025-10-28,14,5,Medium,Private,Giza,Medium,25000000.0,8048626.39,14,2,12,Execution,2025-09-14,System,Payment backlog
+P060,Manufacturing Initiative #863,Manufacturing,2025-05-31,2025-12-02,18,0,Low,Government,Upper Egypt,Low,3000000.0,254010.53,14,5,8,Handover,2025-11-23,Field Visit,Payment backlog
+P061,Sports Initiative #981,Sports,2025-10-17,2025-12-02,14,7,Medium,Private,Red Sea,High,1000000.0,589988.09,7,8,5,Execution,2025-11-15,Email,Seasonality impact
+P062,Culture Initiative #817,Culture,2024-11-16,2025-11-09,3,0,Low,NGO,Cairo,Low,5000000.0,0.0,14,0,5,Closed,2025-10-26,System,Scope clarification needed
+P063,Education Initiative #75,Education,2025-08-14,2025-11-18,11,0,Low,Government,Upper Egypt,Low,3000000.0,377853.11,14,0,5,Requirements,2025-10-23,Phone,
+P064,Sports Initiative #120,Sports,2025-02-07,2025-11-26,6,3,Medium,Private,Red Sea,Low,10000000.0,6534433.18,7,1,35,Initiation,2025-10-27,Field Visit,Awaiting approval
+P065,Sports Initiative #822,Sports,2025-09-15,2025-11-21,5,2,Medium,Private,Cairo,Medium,5000000.0,2209623.76,0,8,8,Execution,2025-10-20,Phone,Awaiting approval
+P066,IT Initiative #861,IT,2025-01-28,2025-12-06,9,8,High,Private,Cairo,Medium,3000000.0,2653455.8,0,1,12,Procurement,2025-11-27,Field Visit,
+P067,Infrastructure Initiative #370,Infrastructure,2024-10-09,2025-11-24,14,0,Low,Private,Alexandria,Medium,3000000.0,0.0,0,2,12,Closed,2025-11-21,System,Payment backlog
+P068,IT Initiative #580,IT,2025-08-19,2025-12-06,18,11,Medium,NGO,Giza,Medium,1000000.0,558609.99,0,1,8,Closed,2025-10-28,Phone,Payment backlog
+P069,Education Initiative #553,Education,2024-10-18,2025-11-07,11,1,Medium,Government,Delta,Medium,3000000.0,0.0,30,2,8,Requirements,2025-09-28,Meeting,
+P070,Energy Initiative #507,Energy,2025-04-30,2025-11-20,8,5,Medium,Private,Cairo,High,5000000.0,3920848.82,0,2,3,Initiation,2025-11-03,Field Visit,Payment backlog
+P071,Culture Initiative #795,Culture,2024-10-16,2025-12-06,6,2,Medium,Private,Cairo,Medium,3000000.0,1250489.19,0,1,8,Initiation,2025-11-23,System,External dependency blocking
+P072,Manufacturing Initiative #953,Manufacturing,2025-05-18,2025-12-01,6,0,Medium,Private,Giza,Low,5000000.0,0.0,7,2,5,Execution,2025-11-29,Field Visit,
+P073,Infrastructure Initiative #420,Infrastructure,2025-04-03,2025-12-08,15,14,High,Private,Giza,High,1000000.0,1000000.0,7,2,5,Execution,2025-12-02,Email,Awaiting approval
+P074,Public Services Initiative #159,Public Services,2025-02-10,2025-08-17,13,0,Low,Private,Cairo,Medium,1000000.0,28483.22,60,1,12,Closed,2025-07-07,Email,
+P075,Logistics Initiative #79,Logistics,2025-06-04,2025-09-20,5,0,Low,University,Alexandria,Medium,5000000.0,264069.16,14,3,12,UAT,2025-08-31,System,
+P076,Sports Initiative #604,Sports,2025-06-13,2025-11-30,4,2,Medium,Private,Cairo,Medium,500000.0,320546.91,0,3,20,UAT,2025-10-23,Phone,Awaiting approval
+P077,Water & Sanitation Initiative #50,Water & Sanitation,2025-10-13,2025-12-03,17,17,High,Private,Cairo,Medium,1000000.0,871655.8,0,5,5,Handover,2025-11-28,Phone,Payment backlog
+P078,Agriculture Initiative #751,Agriculture,2025-01-27,2025-11-21,8,5,Medium,Private,Cairo,Medium,3000000.0,2052780.16,30,2,3,Initiation,2025-10-17,Field Visit,
+P079,Manufacturing Initiative #696,Manufacturing,2024-09-19,2025-09-23,7,1,Low,Private,Alexandria,Medium,1000000.0,240949.05,0,2,12,Procurement,2025-09-15,Phone,
+P080,SME Initiative #354,SME,2025-05-17,2025-12-18,12,4,Medium,University,Cairo,Medium,1000000.0,533325.15,0,1,12,UAT,2025-11-14,Phone,
+P081,Manufacturing Initiative #838,Manufacturing,2025-08-19,2025-12-10,8,2,Medium,NGO,Cairo,Medium,10000000.0,4393560.11,14,2,12,Requirements,2025-11-06,Email,
+P082,Sports Initiative #577,Sports,2025-05-16,2025-12-20,17,16,High,NGO,Delta,Medium,3000000.0,2543690.49,0,2,20,Initiation,2025-11-09,Field Visit,Resource constraints
+P083,IT Initiative #524,IT,2025-08-15,2025-11-16,12,3,Medium,NGO,Cairo,High,1000000.0,253115.4,60,0,8,Procurement,2025-11-15,Field Visit,
+P084,Environment Initiative #15,Environment,2025-04-19,2025-11-26,10,0,Low,Private,Cairo,Medium,3000000.0,0.0,0,5,8,Closed,2025-11-18,Field Visit,Awaiting approval
+P085,Infrastructure Initiative #537,Infrastructure,2025-07-26,2025-11-09,16,0,Low,NGO,Cairo,Low,1000000.0,73633.11,14,0,20,Execution,2025-10-02,Phone,
+P086,Agriculture Initiative #904,Agriculture,2025-03-27,2025-12-01,3,2,Medium,Private,Alexandria,Low,5000000.0,3499431.31,0,5,8,Closed,2025-10-30,Phone,
+P087,Sports Initiative #189,Sports,2025-03-11,2025-10-18,11,0,Low,Private,Cairo,Low,5000000.0,0.0,14,2,5,Procurement,2025-09-14,System,Resource constraints
+P088,Culture Initiative #47,Culture,2024-12-23,2025-12-11,8,5,High,Government,Delta,Medium,3000000.0,1470996.59,0,0,20,UAT,2025-11-16,Phone,Vendor delay
+P089,Energy Initiative #94,Energy,2025-06-25,2025-08-18,13,1,Low,Government,Giza,High,10000000.0,2400462.0,0,8,8,Execution,2025-07-26,Phone,
+P090,SME Initiative #291,SME,2025-05-21,2025-09-20,12,1,Low,Government,Cairo,Medium,3000000.0,553546.06,0,1,8,Handover,2025-08-29,Phone,Seasonality impact
+P091,Health Initiative #982,Health,2025-01-22,2025-09-16,14,2,Low,NGO,Delta,High,1000000.0,205507.66,30,0,3,Closed,2025-08-06,System,Awaiting approval
+P092,Health Initiative #585,Health,2025-02-19,2025-11-06,14,9,Medium,Private,Cairo,Low,3000000.0,1808676.14,0,5,3,Requirements,2025-10-06,Phone,Awaiting approval
+P093,IT Initiative #736,IT,2024-10-09,2025-11-03,17,1,Low,University,Cairo,High,3000000.0,0.0,30,1,20,Execution,2025-10-29,System,Payment backlog
+P094,Infrastructure Initiative #915,Infrastructure,2025-06-01,2025-12-01,8,2,Medium,NGO,Giza,Low,1000000.0,148606.91,30,0,8,Procurement,2025-11-02,Phone,
+P095,Infrastructure Initiative #999,Infrastructure,2024-09-15,2025-10-17,18,4,Low,Private,Giza,Medium,1000000.0,183181.91,0,1,8,Requirements,2025-09-12,Phone,
+P096,Manufacturing Initiative #320,Manufacturing,2025-09-14,2025-12-16,7,2,Medium,Government,Cairo,Medium,3000000.0,1395092.11,30,3,5,Handover,2025-11-11,System,
+P097,Water & Sanitation Initiative #795,Water & Sanitation,2025-05-22,2025-09-15,7,0,Low,Private,Delta,Medium,10000000.0,472663.12,30,0,3,Handover,2025-08-10,System,Payment backlog
+P098,SME Initiative #892,SME,2025-03-09,2025-12-18,12,6,Medium,Private,Suez Canal,Medium,3000000.0,1126621.68,0,1,8,Requirements,2025-11-27,Phone,
+P099,Tourism Initiative #896,Tourism,2025-04-07,2025-11-27,7,6,Medium,Private,Alexandria,Medium,3000000.0,2402273.83,0,0,5,Execution,2025-10-19,Field Visit,
+P100,Retail Initiative #61,Retail,2024-11-04,2025-12-08,13,10,High,NGO,Giza,Medium,3000000.0,2181659.81,0,5,8,Requirements,2025-11-25,Phone,Awaiting approval
+P101,Finance Initiative #305,Finance,2024-10-28,2025-10-27,18,12,Medium,Private,Suez Canal,Medium,25000000.0,19282362.22,14,1,8,UAT,2025-09-22,Email,Awaiting approval
+P102,Infrastructure Initiative #51,Infrastructure,2025-01-14,2025-11-21,11,10,Medium,Private,Cairo,High,3000000.0,3000000.0,0,5,12,Requirements,2025-10-14,Phone,Awaiting approval
+P103,Health Initiative #531,Health,2025-02-18,2025-09-06,18,4,Low,Private,Alexandria,Medium,3000000.0,860388.19,0,8,12,Procurement,2025-07-31,System,Vendor delay
+P104,Water & Sanitation Initiative #748,Water & Sanitation,2025-05-14,2025-11-13,18,8,Medium,Private,Delta,High,5000000.0,2866543.15,14,2,3,Execution,2025-10-28,Phone,Vendor delay
+P105,Health Initiative #952,Health,2025-02-14,2025-12-09,15,7,Medium,NGO,Cairo,Medium,5000000.0,1917205.91,7,1,8,Requirements,2025-11-13,Phone,Scope clarification needed
+P106,Sports Initiative #206,Sports,2024-10-27,2025-12-03,4,1,High,Private,Alexandria,High,3000000.0,695666.01,60,1,8,UAT,2025-11-11,System,Payment backlog
+P107,Agriculture Initiative #414,Agriculture,2025-06-06,2025-10-29,12,1,Low,NGO,Delta,Medium,3000000.0,388511.97,60,2,5,UAT,2025-09-16,Phone,Awaiting approval
+P108,Environment Initiative #640,Environment,2025-08-19,2025-12-01,12,8,High,Private,Delta,Medium,3000000.0,1819266.17,7,0,8,UAT,2025-10-18,System,
+P109,Agriculture Initiative #214,Agriculture,2024-11-15,2025-09-12,10,0,Low,Government,Giza,Medium,1000000.0,119768.12,0,1,20,Execution,2025-08-02,Field Visit,Vendor delay
+P110,Finance Initiative #776,Finance,2025-07-17,2025-09-15,5,0,Low,Private,Delta,High,25000000.0,0.0,30,0,20,Closed,2025-08-21,Field Visit,
+P111,Finance Initiative #673,Finance,2025-06-27,2025-12-26,6,4,High,Private,Sinai,Medium,3000000.0,2535488.53,30,1,5,Initiation,2025-12-05,Email,Scope clarification needed
+P112,Logistics Initiative #498,Logistics,2024-11-07,2025-12-19,13,7,Medium,Private,Delta,Low,10000000.0,7024265.05,30,1,3,Handover,2025-12-13,Email,Seasonality impact
+P113,Tourism Initiative #425,Tourism,2025-07-16,2025-12-26,15,12,High,Private,Cairo,Medium,5000000.0,4252535.36,0,1,5,Handover,2025-12-19,Field Visit,
+P114,Public Services Initiative #785,Public Services,2024-11-03,2025-11-28,12,8,High,Private,Red Sea,Medium,1000000.0,851742.85,7,1,35,Procurement,2025-11-02,Phone,External dependency blocking
+P115,Water & Sanitation Initiative #178,Water & Sanitation,2025-07-12,2025-11-30,10,10,High,NGO,Cairo,Medium,5000000.0,4386679.76,7,0,8,UAT,2025-11-18,Phone,Vendor delay
+P116,Tourism Initiative #846,Tourism,2025-09-14,2025-12-12,9,9,High,Private,Upper Egypt,Medium,500000.0,448090.26,7,2,8,Handover,2025-11-23,Meeting,Awaiting approval
+P117,Education Initiative #922,Education,2025-09-06,2025-11-12,4,3,Medium,Private,Cairo,High,25000000.0,15603917.53,60,0,8,Closed,2025-11-04,Field Visit,Awaiting approval
+P118,Training Initiative #746,Training,2025-04-17,2025-11-25,5,4,Medium,Government,Upper Egypt,Low,50000000.0,39378526.06,0,8,20,Closed,2025-11-24,System,Awaiting approval
+P119,Water & Sanitation Initiative #618,Water & Sanitation,2025-07-01,2025-11-25,10,7,Medium,Private,Cairo,High,10000000.0,5894956.24,30,1,12,Initiation,2025-11-10,Email,
+P120,Health Initiative #801,Health,2024-10-12,2025-11-06,4,1,Medium,NGO,Giza,Low,1000000.0,402305.58,0,1,5,Closed,2025-10-01,System,Vendor delay
+P121,Tourism Initiative #336,Tourism,2025-05-05,2025-08-16,10,1,Low,Private,Cairo,High,25000000.0,6726304.57,14,1,8,Procurement,2025-07-06,Field Visit,Scope clarification needed
+P122,SME Initiative #218,SME,2025-04-22,2025-11-30,8,7,Medium,Government,Cairo,High,1000000.0,887058.81,0,1,8,UAT,2025-11-22,Field Visit,
+P123,Tourism Initiative #223,Tourism,2025-04-16,2025-11-21,5,4,Medium,NGO,Cairo,Medium,5000000.0,4305113.58,30,0,12,Handover,2025-10-10,Phone,
+P124,Tourism Initiative #556,Tourism,2025-07-06,2025-08-12,9,0,Low,University,Cairo,High,3000000.0,0.0,14,0,20,UAT,2025-07-23,System,Awaiting approval
+P125,Environment Initiative #967,Environment,2025-01-02,2025-10-21,18,3,Low,Government,Sinai,Medium,10000000.0,3366823.41,0,1,8,Requirements,2025-10-12,Meeting,
+P126,SME Initiative #824,SME,2025-04-27,2025-11-11,10,1,Low,Private,Cairo,Medium,25000000.0,1703687.49,14,1,12,Handover,2025-10-11,Field Visit,
+P127,Environment Initiative #655,Environment,2024-10-31,2025-09-05,18,1,Low,University,Giza,Medium,500000.0,0.0,30,5,12,Closed,2025-09-05,Field Visit,
+P128,Agriculture Initiative #558,Agriculture,2025-10-14,2025-11-17,9,1,Low,Private,Alexandria,Medium,5000000.0,651162.82,7,0,8,Initiation,2025-11-16,Phone,Scope clarification needed
+P129,Finance Initiative #723,Finance,2024-08-02,2025-08-24,16,1,Low,Government,Cairo,Low,1000000.0,96759.59,30,0,8,Procurement,2025-07-30,Field Visit,Vendor delay
+P130,Agriculture Initiative #951,Agriculture,2025-06-13,2025-08-23,4,0,Low,Private,Giza,Medium,5000000.0,479979.01,0,3,12,Procurement,2025-07-18,Meeting,External dependency blocking
+P131,Health Initiative #739,Health,2024-07-25,2025-08-13,18,2,Low,Government,Cairo,High,25000000.0,3958489.09,0,5,5,Requirements,2025-07-07,Email,Scope clarification needed
+P132,Training Initiative #247,Training,2025-08-26,2025-12-17,10,10,High,NGO,Giza,High,3000000.0,3000000.0,0,8,12,UAT,2025-11-25,Meeting,
+P133,Infrastructure Initiative #312,Infrastructure,2024-09-20,2025-08-30,15,2,Low,Government,Cairo,High,3000000.0,323601.76,60,1,12,Handover,2025-08-06,Meeting,Scope clarification needed
+P134,Agriculture Initiative #451,Agriculture,2025-06-30,2025-12-14,7,3,Medium,NGO,Alexandria,Medium,3000000.0,947592.75,0,1,5,Procurement,2025-12-08,Email,
+P135,Culture Initiative #183,Culture,2025-03-24,2025-11-17,6,0,Medium,Government,Alexandria,Medium,10000000.0,1523013.62,0,1,12,Handover,2025-10-13,Email,Vendor delay
+P136,Training Initiative #119,Training,2025-05-02,2025-11-02,11,1,Low,Government,Cairo,Medium,3000000.0,644527.23,0,5,12,Execution,2025-09-25,Phone,
+P137,Manufacturing Initiative #336,Manufacturing,2025-03-31,2025-10-17,15,2,Low,Private,Giza,High,5000000.0,956854.28,0,2,12,Execution,2025-09-27,Email,Seasonality impact
+P138,Finance Initiative #224,Finance,2025-02-01,2025-11-09,10,5,Medium,Private,Suez Canal,Medium,1000000.0,547347.68,14,1,12,UAT,2025-11-08,Field Visit,External dependency blocking
+P139,Culture Initiative #528,Culture,2024-10-08,2025-10-27,5,3,Medium,Private,Cairo,Medium,1000000.0,503950.13,7,1,8,UAT,2025-09-27,Phone,Awaiting approval
+P140,SME Initiative #110,SME,2025-03-30,2025-10-30,5,0,Medium,NGO,Alexandria,Medium,5000000.0,0.0,90,2,8,Closed,2025-10-09,Field Visit,
+P141,Logistics Initiative #361,Logistics,2024-11-11,2025-09-02,10,1,Low,Private,Giza,Medium,5000000.0,13803.63,90,1,5,Initiation,2025-08-26,Email,Awaiting approval
+P142,Culture Initiative #768,Culture,2025-02-12,2025-11-16,14,11,Medium,Government,Delta,Medium,500000.0,325676.68,14,0,5,Initiation,2025-10-04,Email,External dependency blocking
+P143,Agriculture Initiative #14,Agriculture,2025-07-26,2025-11-14,13,11,Medium,Private,Giza,Medium,5000000.0,3806946.35,14,1,12,Requirements,2025-10-17,Phone,Awaiting approval
+P144,Energy Initiative #611,Energy,2024-08-07,2025-09-01,5,0,Low,NGO,Giza,Medium,1000000.0,0.0,14,1,35,Procurement,2025-07-25,Field Visit,Payment backlog
+P145,IT Initiative #402,IT,2024-11-29,2025-08-20,8,1,Low,University,Alexandria,Medium,3000000.0,175501.36,0,1,5,Execution,2025-07-25,Phone,
+P146,SME Initiative #516,SME,2024-11-15,2025-09-16,8,0,Low,Private,Cairo,Medium,3000000.0,0.0,0,0,5,Closed,2025-08-23,Phone,Vendor delay
+P147,SME Initiative #596,SME,2024-10-26,2025-11-23,17,14,Medium,Government,Alexandria,Medium,1000000.0,684972.69,0,1,12,UAT,2025-10-23,Phone,Vendor delay
+P148,IT Initiative #130,IT,2025-02-23,2025-09-28,4,1,Low,Private,Sinai,Low,10000000.0,3629709.23,0,8,8,Procurement,2025-09-23,Field Visit,Resource constraints
+P149,Agriculture Initiative #730,Agriculture,2024-10-07,2025-09-03,14,2,Low,Private,Giza,Medium,10000000.0,2775925.96,30,2,8,UAT,2025-07-31,Email,
+P150,Finance Initiative #702,Finance,2025-01-13,2025-11-02,6,0,Low,University,Delta,High,50000000.0,7673332.83,0,3,5,Handover,2025-10-13,Email,Scope clarification needed
+P151,Training Initiative #899,Training,2024-11-25,2025-11-13,11,7,Medium,Private,Cairo,Medium,10000000.0,6273614.07,14,2,20,Execution,2025-10-13,System,Vendor delay
+P152,Infrastructure Initiative #925,Infrastructure,2024-11-30,2025-11-20,14,5,Medium,NGO,Giza,High,10000000.0,3802930.89,0,1,8,Requirements,2025-10-15,Field Visit,Scope clarification needed
+P153,Health Initiative #379,Health,2024-12-26,2025-09-17,3,0,Low,University,Cairo,Medium,50000000.0,0.0,90,5,20,Procurement,2025-09-07,System,
+P154,Logistics Initiative #465,Logistics,2024-09-15,2025-09-12,8,0,Low,Private,Cairo,Medium,1000000.0,79419.83,14,0,8,Requirements,2025-08-06,Email,Vendor delay
+P155,Education Initiative #586,Education,2025-07-25,2025-10-24,16,1,Low,Private,Cairo,Low,10000000.0,0.0,0,1,8,Closed,2025-10-16,Email,
+P156,Education Initiative #332,Education,2025-03-29,2025-12-09,14,7,Medium,Private,Cairo,Medium,5000000.0,3254934.42,0,0,12,UAT,2025-11-15,System,Seasonality impact
+P157,Manufacturing Initiative #822,Manufacturing,2025-07-04,2025-09-15,10,1,Low,NGO,Delta,High,5000000.0,277886.33,7,1,12,Procurement,2025-08-05,Meeting,Scope clarification needed
+P158,Agriculture Initiative #987,Agriculture,2025-07-12,2025-12-12,18,17,Medium,Government,Upper Egypt,Low,3000000.0,2715629.62,0,3,8,UAT,2025-10-30,Email,Scope clarification needed
+P159,Infrastructure Initiative #166,Infrastructure,2025-10-22,2025-11-28,11,0,Low,Government,Cairo,Medium,3000000.0,209999.23,7,1,12,Initiation,2025-10-19,Phone,Vendor delay
+P160,Logistics Initiative #956,Logistics,2025-02-08,2025-11-26,9,0,Low,Private,Giza,Medium,10000000.0,883694.9,0,2,12,Closed,2025-11-11,Meeting,
+P161,SME Initiative #777,SME,2024-10-13,2025-09-19,4,1,Low,Private,Alexandria,Low,500000.0,74012.06,0,1,5,UAT,2025-09-03,Email,Awaiting approval
+P162,Logistics Initiative #801,Logistics,2025-10-28,2025-12-12,13,9,Medium,Private,Cairo,Medium,5000000.0,2846411.02,7,1,8,UAT,2025-12-02,System,
+P163,IT Initiative #741,IT,2024-10-31,2025-12-05,6,3,High,NGO,Cairo,High,500000.0,183046.77,0,5,5,Closed,2025-12-03,Phone,Resource constraints
+P164,SME Initiative #802,SME,2025-03-07,2025-11-05,13,1,Low,NGO,Alexandria,Low,5000000.0,0.0,0,1,3,Execution,2025-11-01,Field Visit,Resource constraints
+P165,Finance Initiative #964,Finance,2025-01-07,2025-09-27,3,1,Low,Government,Alexandria,Medium,5000000.0,1728538.38,14,1,12,Requirements,2025-08-24,Email,
+P166,SME Initiative #953,SME,2025-03-05,2025-09-28,3,1,Low,Government,Alexandria,High,10000000.0,2197154.9,7,0,8,Initiation,2025-09-19,System,
+P167,Agriculture Initiative #332,Agriculture,2025-04-13,2025-12-10,14,13,High,University,Cairo,Low,1000000.0,1000000.0,0,2,8,Requirements,2025-11-25,System,
+P168,Training Initiative #798,Training,2025-04-19,2025-11-02,13,10,Medium,Private,Cairo,Low,10000000.0,8238785.82,0,0,8,Execution,2025-10-26,Phone,Awaiting approval
+P169,Energy Initiative #703,Energy,2025-06-08,2025-11-20,6,0,Medium,Government,Delta,High,5000000.0,0.0,30,1,3,Requirements,2025-10-29,Field Visit,Vendor delay
+P170,Finance Initiative #391,Finance,2025-09-30,2025-11-14,15,3,Low,Private,Alexandria,Low,1000000.0,327833.41,0,0,12,Requirements,2025-11-06,Email,Resource constraints
+P171,Infrastructure Initiative #751,Infrastructure,2025-09-26,2025-12-03,3,0,Medium,Government,Alexandria,High,500000.0,73273.2,30,0,35,Initiation,2025-11-23,Phone,Awaiting approval
+P172,Training Initiative #99,Training,2024-11-11,2025-11-25,16,8,Medium,Private,Upper Egypt,Medium,3000000.0,1206062.98,14,2,12,Execution,2025-10-30,Phone,Vendor delay
+P173,Logistics Initiative #621,Logistics,2025-07-14,2025-11-23,10,8,Medium,NGO,Sinai,Medium,3000000.0,2521743.7,7,5,8,Execution,2025-11-06,Email,
+P174,Agriculture Initiative #826,Agriculture,2025-03-05,2025-08-25,4,1,Low,Private,Delta,High,50000000.0,6752350.9,14,0,20,Handover,2025-08-22,Email,Vendor delay
+P175,Training Initiative #189,Training,2025-07-01,2025-10-27,8,3,Medium,Private,Suez Canal,Medium,25000000.0,5871807.49,14,5,8,UAT,2025-10-15,Field Visit,Vendor delay
+P176,Sports Initiative #731,Sports,2025-07-03,2025-11-29,10,0,Low,Private,Cairo,High,1000000.0,0.0,14,5,20,Procurement,2025-11-26,Meeting,
+P177,Manufacturing Initiative #585,Manufacturing,2025-04-14,2025-11-16,5,2,Medium,NGO,Alexandria,Medium,3000000.0,1088733.36,90,2,8,Handover,2025-10-16,System,
+P178,Environment Initiative #953,Environment,2025-05-26,2025-09-22,15,2,Low,NGO,Cairo,Low,500000.0,114518.15,7,3,12,UAT,2025-09-20,Email,Payment backlog
+P179,Agriculture Initiative #265,Agriculture,2025-03-04,2025-12-13,7,2,Medium,NGO,Cairo,High,1000000.0,445576.37,0,2,12,Procurement,2025-11-15,Meeting,
+P180,Infrastructure Initiative #85,Infrastructure,2025-08-06,2025-10-30,3,0,Medium,Private,Delta,High,25000000.0,564467.44,0,1,3,Execution,2025-09-24,Email,
+P181,Health Initiative #679,Health,2025-05-17,2025-10-27,6,0,Low,Private,Upper Egypt,Low,500000.0,89820.98,90,1,35,Execution,2025-09-12,Meeting,Awaiting approval
+P182,Retail Initiative #870,Retail,2025-08-04,2025-11-22,4,0,Medium,Private,Red Sea,Medium,5000000.0,869753.8,7,2,5,Initiation,2025-11-19,Field Visit,Vendor delay
+P183,Sports Initiative #492,Sports,2025-09-20,2025-10-21,16,0,Low,Private,Alexandria,Medium,1000000.0,0.0,0,1,3,Closed,2025-10-14,System,Scope clarification needed
+P184,Sports Initiative #362,Sports,2025-10-03,2025-12-18,15,12,High,Private,Giza,Low,500000.0,401954.57,0,3,8,Requirements,2025-11-04,Meeting,
+P185,Water & Sanitation Initiative #741,Water & Sanitation,2024-12-05,2025-11-01,10,8,Medium,Government,Giza,Medium,50000000.0,44523688.82,60,2,5,Procurement,2025-10-27,Field Visit,External dependency blocking
+P186,Health Initiative #652,Health,2024-12-29,2025-11-16,7,0,Medium,University,Giza,High,1000000.0,0.0,0,0,3,Handover,2025-10-20,Email,Seasonality impact
+P187,Manufacturing Initiative #161,Manufacturing,2025-06-08,2025-12-18,5,1,High,Private,Giza,Medium,1000000.0,210355.01,30,3,8,UAT,2025-11-22,Meeting,Awaiting approval
+P188,IT Initiative #920,IT,2025-09-18,2025-12-08,12,12,High,NGO,Upper Egypt,Medium,5000000.0,5000000.0,7,0,8,UAT,2025-10-31,Field Visit,
+P189,Tourism Initiative #771,Tourism,2024-10-31,2025-12-16,18,12,Medium,NGO,Cairo,High,3000000.0,1844363.99,7,2,3,Closed,2025-12-02,Email,
+P190,Culture Initiative #528,Culture,2025-06-15,2025-11-29,16,15,Medium,Private,Cairo,Low,10000000.0,10000000.0,14,3,20,UAT,2025-11-19,Meeting,
+P191,Training Initiative #955,Training,2024-10-26,2025-08-20,3,0,Low,Government,Suez Canal,High,1000000.0,9757.03,60,2,5,Closed,2025-07-22,Phone,Awaiting approval
+P192,IT Initiative #176,IT,2025-04-28,2025-12-04,18,17,Medium,Private,Red Sea,Medium,5000000.0,4574657.98,30,0,20,Initiation,2025-11-16,Meeting,Awaiting approval
+P193,Energy Initiative #834,Energy,2025-07-14,2025-12-06,9,7,High,Private,Giza,High,50000000.0,43327384.19,7,0,5,Closed,2025-12-06,Email,
+P194,Finance Initiative #618,Finance,2024-11-10,2025-11-04,11,7,Medium,NGO,Suez Canal,Medium,1000000.0,592114.42,7,2,8,Initiation,2025-10-03,System,Vendor delay
+P195,Finance Initiative #831,Finance,2025-02-20,2025-11-23,5,1,Low,University,Alexandria,High,1000000.0,298882.82,30,1,5,Closed,2025-11-08,Meeting,Resource constraints
+P196,Training Initiative #663,Training,2025-07-28,2025-11-06,3,2,Medium,Private,Cairo,High,3000000.0,2323568.7,14,8,20,Procurement,2025-09-22,Email,Payment backlog
+P197,Sports Initiative #237,Sports,2025-05-06,2025-12-05,12,9,High,NGO,Upper Egypt,Low,1000000.0,644780.45,0,3,12,Requirements,2025-10-23,System,Payment backlog
+P198,Environment Initiative #707,Environment,2025-02-11,2025-08-17,16,2,Low,Private,Alexandria,Medium,1000000.0,0.0,14,2,8,Execution,2025-08-05,Phone,
+P199,Training Initiative #191,Training,2025-09-27,2025-11-23,7,1,Medium,University,Cairo,High,25000000.0,8454609.56,0,3,5,Initiation,2025-10-23,System,Payment backlog
+P200,Tourism Initiative #48,Tourism,2025-04-02,2025-12-19,11,4,Medium,NGO,Cairo,Medium,3000000.0,1442656.72,0,2,12,Execution,2025-11-22,Field Visit,Awaiting approval

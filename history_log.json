@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-12-26T23:14:23.167877",
+    "summary": {
+      "at_risk": 8,
+      "average_risk": 62.0
+    }
+  },
+  {
+    "timestamp": "2025-12-26T23:14:23.537287",
+    "summary": {
+      "at_risk": 8,
+      "average_risk": 62.0
+    }
+  },
+  {
+    "timestamp": "2025-12-26T23:20:57.899081",
+    "summary": {
+      "at_risk": 8,
+      "average_risk": 62.0
+    }
+  },
+  {
+    "timestamp": "2025-12-27T01:04:23.399912",
+    "summary": {
+      "at_risk": 73,
+      "average_risk": 49.55
+    }
+  }
+]
